@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.947" height="15.088" viewBox="0 0 21.947 15.088">
+  <g id="coupon" transform="translate(0 -80)">
+    <g id="Group_2518" data-name="Group 2518" transform="translate(15.277 89.696)">
+      <g id="Group_2517" data-name="Group 2517" transform="translate(0 0)">
+        <circle id="Ellipse_13" data-name="Ellipse 13" cx="0.645" cy="0.645" r="0.645"/>
+      </g>
+    </g>
+    <g id="Group_2520" data-name="Group 2520" transform="translate(10.973 84.102)">
+      <g id="Group_2519" data-name="Group 2519" transform="translate(0 0)">
+        <circle id="Ellipse_14" data-name="Ellipse 14" cx="0.645" cy="0.645" r="0.645"/>
+      </g>
+    </g>
+    <g id="Group_2522" data-name="Group 2522" transform="translate(0 80)">
+      <g id="Group_2521" data-name="Group 2521">
+        <path id="Path_2166" data-name="Path 2166" d="M20.575,80H7.544a.691.691,0,0,0-.486.2l-.886.887L5.286,80.2A.691.691,0,0,0,4.8,80H1.372A1.374,1.374,0,0,0,0,81.372V93.717a1.373,1.373,0,0,0,1.372,1.372H4.8a.691.691,0,0,0,.486-.2L6.173,94l.886.886a.686.686,0,0,0,.486.2H20.575a1.372,1.372,0,0,0,1.372-1.372V81.372A1.373,1.373,0,0,0,20.575,80ZM6.858,92.345H5.487V90.973H6.858Zm0-2.743H5.487V88.23H6.858Zm0-2.743H5.487V85.487H6.858Zm0-2.743H5.487V82.743H6.858Zm4.8-1.372A2.058,2.058,0,1,1,9.6,84.8,2.06,2.06,0,0,1,11.659,82.743Zm-1.372,9.6a.686.686,0,0,1-.527-1.125l6.858-8.23a.686.686,0,1,1,1.052.879L10.813,92.1A.686.686,0,0,1,10.288,92.345Zm5.487,0a2.058,2.058,0,1,1,2.058-2.058A2.06,2.06,0,0,1,15.774,92.345Z" transform="translate(0 -80)"/>
+      </g>
+    </g>
+  </g>
+</svg>

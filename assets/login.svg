@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.011" y1="0.896" x2="0.819" y2="0.234" gradientUnits="objectBoundingBox">
+      <stop offset="0.26" stop-color="#ff00b7"/>
+      <stop offset="0.49" stop-color="#f909aa"/>
+      <stop offset="0.79" stop-color="#ee1a92"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.001" y1="0.5" x2="1.001" y2="0.5" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path">
+      <path id="Path_2034" data-name="Path 2034" d="M0-44H375V-3H0Z" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_2033" data-name="Path 2033" d="M0,768H375V-44H0Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff00b7"/>
+      <stop offset="1" stop-color="#ee1a92"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="-0.078" y1="0.936" x2="0.859" y2="0.124" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-login">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="login" clip-path="url(#clip-login)">
+    <rect width="375" height="812" fill="#fff"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(103.596 108.479)">
+      <g id="Layer_1" data-name="Layer 1">
+        <rect id="Rectangle_1" data-name="Rectangle 1" width="167.809" height="140.79" fill="none"/>
+        <g id="Group_1" data-name="Group 1" transform="translate(57.567 8.039)" opacity="0.75">
+          <path id="Path_1" data-name="Path 1" d="M164.708,61.935a27,27,0,0,0-2.677-7.782,21.726,21.726,0,0,0-13.517-10.639l.027-.081c1.716-5.578,1.553-16.488-5.974-22.723-4.16-4.073-13.517-8.146-22.56-4.475-5.469,1.933-13.431,8.559-13.843,18.318L106,75.67c.576,5.333,4.719,13.219,14.234,13.4h21.9C155.551,89.855,167.76,76.039,164.708,61.935Zm-48.3-26.3A11.264,11.264,0,0,1,125.8,25.06c6.609-.63,14.061,2.889,13.414,13.74-2.085,11.91-14.3,9.461-22.81,13.278ZM149.5,76.74c-3.438,2.379-7.462,2.428-11.758,2.525-4.524.1-8.988.065-13.517.065-2.172,0-4.844.228-6.517-1.407-1.923-2-1.629-4.774-1.629-6.088-.206-4.551.706-7.81,2.715-9.689,1.3-1.222,3.123-1.434,4.823-1.629,1.885-.2,3.677-.679,5.534-1.016a28.078,28.078,0,0,0,13.278-6.36c3.432-3.041,8.907,2.113,10.606,4.964C156.882,63.972,155.3,72.726,149.5,76.74Z" transform="translate(-106 -14.802)" fill="#ff00b7"/>
+        </g>
+        <path id="Path_2" data-name="Path 2" d="M163.708,60.935a27,27,0,0,0-2.677-7.782,21.727,21.727,0,0,0-13.517-10.639l.027-.081c1.716-5.578,1.553-16.488-5.974-22.723-4.16-4.073-13.517-8.146-22.56-4.475-5.469,1.933-13.431,8.559-13.843,18.318L105,74.67c.576,5.333,4.719,13.219,14.234,13.4h21.9C154.551,88.855,166.76,75.039,163.708,60.935Zm-48.3-26.3A11.264,11.264,0,0,1,124.8,24.06c6.609-.63,14.061,2.889,13.414,13.74-2.085,11.91-14.3,9.461-22.81,13.278ZM148.5,75.74c-3.438,2.379-7.462,2.428-11.758,2.525-4.524.1-8.988.065-13.517.065-2.172,0-4.844.228-6.517-1.407-1.923-2-1.629-4.774-1.629-6.088-.206-4.551.706-7.81,2.715-9.689,1.3-1.222,3.123-1.434,4.823-1.629,1.885-.2,3.677-.679,5.534-1.016a28.078,28.078,0,0,0,13.278-6.36c3.432-3.041,8.907,2.113,10.607,4.964,3.845,5.865,2.265,14.62-3.536,18.633Z" transform="translate(-47.976 -6.306)" fill="url(#linear-gradient)"/>
+        <path id="Path_3" data-name="Path 3" d="M26.142,211.284H10.24V175.25H24.36c3.959.033,7.924.706,10.395,3.259,3.259,3.362,3.373,9.933-.315,12.578a8.3,8.3,0,0,1-2.6,1.493c7.467,1.39,9.7,9.928,4.779,15.364Q33.625,211.278,26.142,211.284Zm-7.793-21.447h3.845c3.546-.158,6.631,0,6.653-3.84s-2.819-3.8-6.6-3.943H18.348Zm0,14.663H23.91c3.715-.147,6.924-.212,6.962-4.2,0-4.1-3.758-3.937-7.744-4.095H18.348Z" transform="translate(-4.679 -80.074)"/>
+        <path id="Path_4" data-name="Path 4" d="M98.317,203.351C98.4,216.6,82.024,222.2,72.955,213.507c-5.626-5.214-5.61-15.109,0-20.339A14.417,14.417,0,0,1,83.545,189,14.313,14.313,0,0,1,98.317,203.351Zm-21.723,0c-.081,4.214,2.715,7.723,6.935,7.679,9.271.081,9.232-15.473,0-15.413C79.293,195.574,76.512,199.147,76.594,203.351Z" transform="translate(-31.409 -86.354)"/>
+        <path id="Path_5" data-name="Path 5" d="M157.876,203.368c.087,13.251-16.293,18.845-25.368,10.156-5.621-5.214-5.6-15.109,0-20.339a14.484,14.484,0,0,1,10.579-4.149A14.292,14.292,0,0,1,157.876,203.368Zm-21.723,0c-.076,4.214,2.715,7.723,6.941,7.679,9.265.081,9.232-15.473,0-15.413-4.247-.043-7.022,3.53-6.946,7.734Z" transform="translate(-58.621 -86.371)"/>
+        <path id="Path_6" data-name="Path 6" d="M192.359,190.53l4.785,7.424,4.937-7.424h9.146l-9.613,13.577,9.96,14.158h-9.287l-5.458-7.6-5.3,7.6H182.54l9.776-14.12-9.232-13.61Z" transform="translate(-83.405 -87.056)"/>
+        <path id="Path_7" data-name="Path 7" d="M251.539,205.165c2.471,3.329,8.423,3.345,10.862,0a10.616,10.616,0,0,0,2-6.827v-19.9h8.108v20.154c.185,9.862-6.066,16.244-15.543,16.238s-15.75-6.425-15.592-16.238V178.44h8.108v19.9A10.676,10.676,0,0,0,251.539,205.165Z" transform="translate(-110.287 -81.532)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="status_bar">
+      <g id="Group_2377" data-name="Group 2377" transform="translate(0 44)" clip-path="url(#clip-path)">
+        <g id="Group_2376" data-name="Group 2376" clip-path="url(#clip-path-2)">
+          <path id="Path_2032" data-name="Path 2032" d="M-5-49H380V2H-5Z" fill="none"/>
+        </g>
+      </g>
+      <g id="Status_Bar-2" data-name="Status Bar" transform="translate(-3 -1)">
+        <g id="Battery" transform="translate(336 17)">
+          <g id="Border" transform="translate(0 0.333)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1" opacity="0.35">
+            <rect width="22" height="11.333" rx="2.667" stroke="none"/>
+            <rect x="0.5" y="0.5" width="21" height="10.333" rx="2.167" fill="none"/>
+          </g>
+          <path id="Cap" d="M0,0V4A2.17,2.17,0,0,0,1.328,2,2.17,2.17,0,0,0,0,0" transform="translate(23 4)" opacity="0.4"/>
+          <rect id="Capacity" width="18" height="7.333" rx="1.333" transform="translate(2 2.333)"/>
+        </g>
+        <path id="Wifi" d="M7.637,10.966a.313.313,0,0,1-.221-.093l-2-2.016a.313.313,0,0,1,.01-.456,3.421,3.421,0,0,1,4.419,0,.311.311,0,0,1,.1.226.315.315,0,0,1-.094.23l-2,2.016A.308.308,0,0,1,7.637,10.966Zm3.508-3.538a.312.312,0,0,1-.214-.085,4.9,4.9,0,0,0-6.585,0,.312.312,0,0,1-.214.085.308.308,0,0,1-.22-.091L2.758,6.17a.322.322,0,0,1,0-.459,7.158,7.158,0,0,1,9.752,0,.322.322,0,0,1,.1.229.326.326,0,0,1-.094.23L11.364,7.337A.309.309,0,0,1,11.145,7.428ZM13.8,4.743a.3.3,0,0,1-.214-.087,8.64,8.64,0,0,0-11.907,0,.3.3,0,0,1-.214.087.308.308,0,0,1-.22-.091L.094,3.486a.322.322,0,0,1,0-.456,10.9,10.9,0,0,1,15.08,0,.325.325,0,0,1,.1.228.319.319,0,0,1-.094.229L14.023,4.652A.307.307,0,0,1,13.8,4.743Z" transform="translate(315.694 17.331)"/>
+        <path id="Cellular_Connection" data-name="Cellular Connection" d="M16,10.667H15a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,16,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1V3.334a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,11.334,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1v-4a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1v4A1,1,0,0,1,6.666,10.667ZM2,10.667H1a1,1,0,0,1-1-1v-2a1,1,0,0,1,1-1H2a1,1,0,0,1,1,1v2A1,1,0,0,1,2,10.667Z" transform="translate(293.667 17.667)"/>
+        <g id="Time_Style" data-name="Time Style" transform="translate(21 9)">
+          <text id="_Time" data-name="↳ Time" transform="translate(0 5.33)" font-size="15" font-family="Roboto-Regular, Roboto" letter-spacing="0em"><tspan x="12.556" y="16">9:41</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text id="Welcome_" data-name="Welcome !" transform="translate(37 294)" fill="#1d2226" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Welcome !</tspan></text>
+    <text id="Please_login_to_your_account." data-name="Please login to your account." transform="translate(37 313)" fill="#1d2226" font-size="12" font-family="Roboto-Regular, Roboto" opacity="0.6"><tspan x="0" y="0">Please login to your account.</tspan></text>
+    <g id="email_field" data-name="email field" transform="translate(0 -17)">
+      <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(38 347)" fill="#fff" stroke="#ee1a92" stroke-width="2">
+        <rect width="300" height="50" rx="5" stroke="none"/>
+        <rect x="1" y="1" width="298" height="48" rx="4" fill="none"/>
+      </g>
+      <text id="Email_Address" data-name="Email Address" transform="translate(114 377.8)" fill="#1a1a1a" font-size="16" font-family="Roboto-Regular, Roboto" opacity="0.56"><tspan x="-51.211" y="0">Email Address</tspan></text>
+    </g>
+    <g id="pass_field" data-name="pass field" transform="translate(0 -11)">
+      <g id="Path_2050" data-name="Path 2050" transform="translate(38 417)" fill="#fff">
+        <path d="M 295 49 L 5 49 C 2.794384717941284 49 1 47.20561599731445 1 45 L 1 5 C 1 2.794384717941284 2.794384717941284 1 5 1 L 295 1 C 297.2056274414062 1 299 2.794384717941284 299 5 L 299 45 C 299 47.20561599731445 297.2056274414062 49 295 49 Z" stroke="none"/>
+        <path d="M 5 2 C 3.345794677734375 2 2 3.345806121826172 2 5 L 2 45 C 2 46.65419387817383 3.345794677734375 48 5 48 L 295 48 C 296.6542053222656 48 298 46.65419387817383 298 45 L 298 5 C 298 3.345806121826172 296.6542053222656 2 295 2 L 5 2 M 5 0 L 295 0 C 297.7614135742188 0 300 2.238578796386719 300 5 L 300 45 C 300 47.76142120361328 297.7614135742188 50 295 50 L 5 50 C 2.23858642578125 50 0 47.76142120361328 0 45 L 0 5 C 0 2.238578796386719 2.23858642578125 0 5 0 Z" stroke="none" fill="#ee1a92"/>
+      </g>
+      <text id="Password" transform="translate(98 447.8)" fill="#1a1a1a" font-size="16" font-family="Roboto-Regular, Roboto" opacity="0.56"><tspan x="-35.398" y="0">Password</tspan></text>
+    </g>
+    <g id="login_button" data-name="login button" transform="translate(0 69)">
+      <rect id="Rectangle_14-2" data-name="Rectangle 14" width="300" height="50" rx="25" transform="translate(38 417)" fill="url(#linear-gradient-3)"/>
+      <text id="LOGIN-2" data-name="LOGIN" transform="translate(188 448.8)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-23.035" y="0">LOGIN</tspan></text>
+    </g>
+    <text id="By_signing_up_you_are_agree_with_our_Terms_Conditions" data-name="By signing up, you are agree with our Terms &amp; Conditions" transform="translate(188 750)" fill="#1a1a1a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-151.16" y="0">By signing up, you are agree with our</tspan><tspan y="0" fill="#ff344c"> </tspan><tspan y="0" fill="#e70b89" text-decoration="underline">Terms &amp; Conditions</tspan></text>
+    <text id="Reset_Password_" data-name="Reset Password?" transform="translate(201 579)" fill="#e70b89" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Reset Password?</tspan></text>
+    <text id="Register_now" data-name="Register now" transform="translate(67 579)" fill="#e70b89" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Register now</tspan></text>
+    <text id="or_login_with" data-name="or login with" transform="translate(188 630)" fill="#9d9d9d" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="-40.829" y="0">or login with</tspan></text>
+    <g id="Group_2380" data-name="Group 2380" transform="translate(0 24)">
+      <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(196.887 639)" fill="none" stroke="#ee1a92" stroke-width="1">
+        <rect width="130.809" height="33.445" stroke="none"/>
+        <rect x="0.5" y="0.5" width="129.809" height="32.445" fill="none"/>
+      </g>
+      <rect id="Rectangle_10-2" data-name="Rectangle 10" width="130.748" height="33.833" transform="translate(47.304 639)" fill="#3b5998"/>
+      <g id="Group_2379" data-name="Group 2379">
+        <g id="Group_13" data-name="Group 13" transform="translate(74.168 645.643)">
+          <path id="Path_2048" data-name="Path 2048" d="M260.531,252.128h-3.574v-2.608c0-.8.827-.985,1.214-.985h2.309v-3.52L257.833,245a4.054,4.054,0,0,0-4.434,4.307v2.82h-2.62v3.627h2.62v9.791h3.558v-9.791h3.022Z" transform="translate(-250.779 -245)" fill="#fff"/>
+        </g>
+        <text id="Facebook" transform="translate(126.188 660.526)" fill="#fff" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-26.051" y="0">Facebook</tspan></text>
+      </g>
+      <g id="Group_2378" data-name="Group 2378" transform="translate(3.154)">
+        <text id="Google" transform="translate(276.274 659.912)" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-18.932" y="0">Google</tspan></text>
+        <g id="Group_90" data-name="Group 90" transform="translate(223 645)">
+          <path id="y" d="M4.876,145.622,4.11,148.48l-2.8.059a11.019,11.019,0,0,1-.081-10.272h0l2.492.457L4.814,141.2a6.565,6.565,0,0,0,.062,4.42Z" transform="translate(0 -132.327)" fill="#fbbb00"/>
+          <path id="b" d="M272.194,208.176a11,11,0,0,1-3.921,10.633h0l-3.139-.16-.444-2.773a6.556,6.556,0,0,0,2.821-3.348h-5.882v-4.352h10.566Z" transform="translate(-250.386 -199.231)" fill="#518ef8"/>
+          <path id="g" d="M47.084,315.692h0a11,11,0,0,1-16.575-3.365l3.565-2.918a6.542,6.542,0,0,0,9.427,3.35Z" transform="translate(-29.198 -296.114)" fill="#28b446"/>
+          <path id="r" d="M45.415,2.532,41.852,5.45a6.541,6.541,0,0,0-9.644,3.425L28.625,5.941h0A11,11,0,0,1,45.415,2.532Z" transform="translate(-27.394)" fill="#f14336"/>
+        </g>
+      </g>
+    </g>
+    <g id="Layer_2-2" data-name="Layer 2" transform="translate(338 75.142)">
+      <path id="Intersection_1" data-name="Intersection 1" d="M-1287-34.264c.948-20.27,15.525-37.12,35.013-40.472q.99-.094,1.987-.155V18.635c-12.529,2.706-25.652,4.864-37,10.1Z" transform="translate(1287 75)" fill="url(#linear-gradient-4)"/>
+    </g>
+  </g>
+</svg>
